@@ -1,2 +1,2 @@
-# Alapha-s-Resume
+# AlaphasDigitalResume
 This is my First Digital Resume
